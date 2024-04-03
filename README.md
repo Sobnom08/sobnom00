@@ -1,9 +1,14 @@
 <h1 align="center"> 
 <p align="center">
-<img allign = "center" width="50%" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif" /> 
+<img allign = "center" width="50%" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif" /> <br>
+<br>
+  
 👋Hello! I'm Sobnom , a Computer Science and Engineering student with a relentless passion for coding and technology. I thrive on challenges and have an insatiable desire to learn and explore new horizons in the world of software development.
 
-💻 As a dedicated coder, I believe in the power of hard work and persistence. My journey in the field of computer science has taught me the importance of patience and resilience in overcoming obstacles and achieving goals.
+</p>
+
+<p float="left">
+  💻 As a dedicated coder, I believe in the power of hard work and persistence. My journey in the field of computer science has taught me the importance of patience and resilience in overcoming obstacles and achieving goals.
 
 🚀 I am deeply passionate about leveraging technology to solve real-world problems and create innovative solutions. Whether it's building robust software applications or diving into cutting-edge technologies, I am always eager to expand my knowledge and skillset.
 
@@ -15,12 +20,13 @@ Let's connect and embark on this exciting journey together!
 
 ## Find me around the web 🌎: <a href="https://github.com/Sobnom08">" src="https://github.com/Sobnom08"
 - Sharing updates on <a href="https://www.linkedin.com/in/sobnom-mostary-717070211//">LinkedIn</a> 💼
-</p>
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sobnom-01&theme=zenburn)
 
-<p float="left">
-  <img allign = "center" width="100%" src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sobnom-01&theme=zenburn" />
-  <img allign = "left" width="55%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sobnom-01&theme=zenburn" />
-  <img allign = "center" width= "42%" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sobnom-01&theme=zenburn)
+
+
+<img allign = "center" width= "42%" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
+  
 </p>
 <h2 align="center">Languages</h3>
 <p align="center">
