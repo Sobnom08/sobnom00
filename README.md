@@ -1,6 +1,6 @@
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!👋 </h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/sobnom-mostary-717070211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir habib" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sobnom-mostary-717070211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" sobnom mostary" height="30" width="40" /></a>
 </p>
 <img allign = "center" width="100%" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif" /> 
 <p float="left">
