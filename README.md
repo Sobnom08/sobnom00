@@ -17,6 +17,7 @@
   }
   h1, h2, h3 {
     text-align: center;
+    font-size: 24px; /* Adjust the font size here */
   }
   img {
     display: block;
@@ -26,7 +27,7 @@
 </head>
 <body>
 <div class="container">
-  <h1>Hello! I'm Sobnom 👋</h1>
+  <h1>About Me</h1> <!-- Corrected the title here -->
   <img width="50%" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif" alt="Coding">
   <p>
     I'm a Computer Science and Engineering student with a relentless passion for coding and technology. I thrive on challenges and have an insatiable desire to learn and explore new horizons in the world of software development.
