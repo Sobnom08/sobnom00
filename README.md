@@ -1,4 +1,5 @@
-<h1 align="center"> HOLA, I'm Sobnom!👋 </h1> <br>
+<h1 align="center"> HOLA, I'm Sobnom!👋 </h1> 
+# I AM A NEW LEARNER 👩🏾‍💻
 <p align="center">
 <a href="https://www.linkedin.com/in/sobnom-mostary-717070211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" sobnom mostary" height="30" width="40" /></a>
 </p>
