@@ -13,7 +13,7 @@
 
 Let's connect and embark on this exciting journey together!
 
-## Find me around the web 🌎: <a href="https://github.com/Sobnom08"><img align="left" width="150" height="150" src="
+## Find me around the web 🌎: <a href="https://github.com/Sobnom08">" src="https://github.com/Sobnom08"
 - Sharing updates on <a href="https://www.linkedin.com/in/sobnom-mostary-717070211//">LinkedIn</a> 💼
 </p>
 <img allign = "center" width="100%" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif" /> 
