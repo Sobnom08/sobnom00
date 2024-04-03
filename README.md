@@ -1,7 +1,20 @@
-<h1 align="center"> HOLA, I'm Sobnom!👋 </h1> 
-# I AM A NEW LEARNER 👩🏾‍💻
+<h1 align="center"> 
 <p align="center">
-<a href="https://www.linkedin.com/in/sobnom-mostary-717070211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" sobnom mostary" height="30" width="40" /></a>
+ alt="banner that says Sobnom Mostary- student of Computer Science and Engineering
+👋Hello! I'm Sobnom , a Computer Science and Engineering student with a relentless passion for coding and technology. I thrive on challenges and have an insatiable desire to learn and explore new horizons in the world of software development.
+
+💻 As a dedicated coder, I believe in the power of hard work and persistence. My journey in the field of computer science has taught me the importance of patience and resilience in overcoming obstacles and achieving goals.
+
+🚀 I am deeply passionate about leveraging technology to solve real-world problems and create innovative solutions. Whether it's building robust software applications or diving into cutting-edge technologies, I am always eager to expand my knowledge and skillset.
+
+🤝 I enjoy collaborating with like-minded individuals and working in teams to tackle complex problems. I believe that teamwork fosters creativity, encourages diverse perspectives, and leads to better outcomes.
+
+📚 Outside of coding, I enjoy exploring new hobbies, reading about the latest advancements in technology, and seeking out opportunities for personal and professional growth.
+
+Let's connect and embark on this exciting journey together!
+
+## Find me around the web 🌎: <a href="https://github.com/Sobnom08"><img align="left" width="150" height="150" src="
+- Sharing updates on <a href="https://www.linkedin.com/in/sobnom-mostary-717070211//">LinkedIn</a> 💼
 </p>
 <img allign = "center" width="100%" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif" /> 
 <p float="left">
