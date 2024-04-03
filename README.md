@@ -1,6 +1,6 @@
 <h1 align="center"> 
 <p align="center">
- alt="banner that says Sobnom Mostary- student of Computer Science and Engineering
+
 👋Hello! I'm Sobnom , a Computer Science and Engineering student with a relentless passion for coding and technology. I thrive on challenges and have an insatiable desire to learn and explore new horizons in the world of software development.
 
 💻 As a dedicated coder, I believe in the power of hard work and persistence. My journey in the field of computer science has taught me the importance of patience and resilience in overcoming obstacles and achieving goals.
